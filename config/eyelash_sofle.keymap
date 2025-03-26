@@ -50,7 +50,7 @@
 &kp C_MUTE      &mo 1   &kp LEFT_GUI  &kp LEFT_ALT  &kp SPACE  &kp SPACE    &kp ENTER        &kp SPACE  &kp SPACE  &mo 2      &kp RIGHT_ALT  &kp RIGHT_SHIFT
             >;
 
-            sensor-bindings = <&inc_dec_kp C_VOLUME_UP C_VOL_DN>;
+            sensor-bindings = <&inc_dec_kp K_SCROLL_UP K_SCROLL_DOWN>;
             display-name = "LAYER0";
         };
 
